@@ -1,1 +1,1 @@
-for draw.io
+Store digrams created using draw.io.
